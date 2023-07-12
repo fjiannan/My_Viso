@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T08:23:05.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.2" etag="G7-3pZ5TgsMs01-OFX9z" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T10:37:58.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="l8SscjqSU75DRGfY0kwW" version="21.6.2" type="github">
   <diagram name="Page-1" id="nPzAFsjytfzfP-GuyXjS">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2bGkcO6fWKTXaA2XBmRs-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2bGkcO6fWKTXaA2XBmRs-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="680" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="2bGkcO6fWKTXaA2XBmRs-4" value="App Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machine.svg;" vertex="1" parent="1">
+          <mxGeometry x="356" y="390" width="69" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="2bGkcO6fWKTXaA2XBmRs-6" value="DB Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Virtual_Machines_Classic.svg;" vertex="1" parent="1">
+          <mxGeometry x="356" y="570" width="69" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
