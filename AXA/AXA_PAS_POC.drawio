@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T12:20:56.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="PhuWMl6YYdOglI_ufGWZ" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-14T12:25:14.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="KrR1kIMaQNelJ9f6fuzK" version="21.6.2" type="github" pages="2">
   <diagram name="Topo01" id="nPzAFsjytfzfP-GuyXjS">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
           <mxGeometry x="912" y="340" width="520" height="720" as="geometry" />
         </mxCell>
         <mxCell id="fkhNUrFltEX-e7KrlZzL-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1062" y="520" width="292" height="430" as="geometry" />
+          <mxGeometry x="970" y="520" width="420" height="430" as="geometry" />
         </mxCell>
         <mxCell id="fkhNUrFltEX-e7KrlZzL-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="741" y="80" width="190" height="120" as="geometry" />
@@ -104,14 +104,17 @@
           <mxGeometry x="1160" y="369" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="fkhNUrFltEX-e7KrlZzL-9" value="AKV" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
-          <mxGeometry x="1332" y="369" width="68" height="68" as="geometry" />
+          <mxGeometry x="1330" y="372" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="fkhNUrFltEX-e7KrlZzL-10" value="vnet01/subnet01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="930" width="50.25" height="30" as="geometry" />
+        <mxCell id="fkhNUrFltEX-e7KrlZzL-10" value="vnet01" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="940" width="50.25" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fkhNUrFltEX-e7KrlZzL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fkhNUrFltEX-e7KrlZzL-13" target="fkhNUrFltEX-e7KrlZzL-9">
+        <mxCell id="fkhNUrFltEX-e7KrlZzL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fkhNUrFltEX-e7KrlZzL-13" target="fkhNUrFltEX-e7KrlZzL-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1006" y="654" as="targetPoint" />
+            <mxPoint x="1530" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1364" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fkhNUrFltEX-e7KrlZzL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.665;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fkhNUrFltEX-e7KrlZzL-13" target="fkhNUrFltEX-e7KrlZzL-19">
